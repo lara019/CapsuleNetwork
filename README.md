@@ -3,7 +3,7 @@
 
 #train mnist
 
-|python capsulenet_Mnist.py
+!python capsulenet_Mnist.py
 
 #train cifar10
 
